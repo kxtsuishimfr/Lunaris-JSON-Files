@@ -27,7 +27,7 @@
     "id": "GJ0003"
   },
   {
-    "title": "Gojo Animation",
+    "title": "Katsu Gojo Animation",
     "date": "8-23-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1755939754/document_5789868987365989010_nnzwx0.mp4",
     "contributor": "",
@@ -36,7 +36,7 @@
     "id": "GJ0004"
   },
   {
-    "title": "Haiko Gojo Animation",
+    "title": "Gojo Animation",
     "date": "8-23-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1755939805/quality_restoration_20250329071127529_1_bojbpz.mp4",
     "contributor": "",
@@ -90,7 +90,7 @@
     "id": "GJ0010"
   },
   {
-    "title": "Katsu Gojo Animation",
+    "title": "Gojo Animation",
     "date": "9-13-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757785451/document_5978721864762006203_ohaijm.mp4",
     "contributor": "",
@@ -99,7 +99,16 @@
     "id": "GJ0011"
   },
   {
-    "title": "Katsu Gojo Animation",
+    "title": "Gojo Animation",
+    "date": "8-23-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757832636/VID_20250829_143616_221_ha3t6a.mp4",
+    "contributor": "",
+    "character": "Gojo",
+    "series": "Jujutsu Kaisen",
+    "id": "GJ0012"
+  },
+  {
+    "title": "Gojo Animation",
     "date": "8-23-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757785515/VID_20250627_194423_330_f7nu08.mp4",
     "contributor": "",
@@ -108,3 +117,4 @@
     "id": "GJ0012"
   }
 ]
+
