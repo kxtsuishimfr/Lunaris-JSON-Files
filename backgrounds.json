@@ -7,7 +7,7 @@
   "contributor": "",
   "tags": ["school", "hallway", "anime", "eerie"],
   "mood": "creepy",
-  "type": "anime"
+  "type": "Manga"
 },
   {
   "id": "BG0002",
@@ -17,7 +17,7 @@
   "contributor": "",
   "tags": ["fight", "meetup", "jjk", "anime"],
   "mood": "action",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0003",
@@ -27,7 +27,7 @@
   "contributor": "",
   "tags": ["mysterious", "tori-gate", "sketchy", "anime"],
   "mood": "mysterious",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0004",
@@ -37,7 +37,7 @@
   "contributor": "",
   "tags": ["soft", "football", "light-hour", "anime"],
   "mood": "calm",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0005",
@@ -47,7 +47,7 @@
   "contributor": "",
   "tags": ["action", "football", "blue-lock", "anime"],
   "mood": "intense",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0006",
@@ -57,7 +57,7 @@
   "contributor": "",
   "tags": ["mysterious", "city", "intense", "anime"],
   "mood": "intense",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0007",
@@ -67,7 +67,7 @@
   "contributor": "",
   "tags": ["soft", "football", "blue-lock", "anime"],
   "mood": "calm",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0008",
@@ -77,7 +77,7 @@
   "contributor": "",
   "tags": ["moody", "football", "blue-lock", "anime"],
   "mood": "calm",
-  "type": "anime"
+  "type": "Anime"
 },
 {
   "id": "BG0009",
@@ -87,7 +87,7 @@
   "contributor": "",
   "tags": ["dark", "forest", "creepy", "surreal"],
   "mood": "mysterious",
-  "type": "ethereal"
+  "type": "Ethereal"
 },
 {
   "id": "BG0010",
@@ -97,8 +97,69 @@
   "contributor": "",
   "tags": ["pink", "sakura", "japanese", "surreal"],
   "mood": "mysterious",
-  "type": "ethereal"
+  "type": "Ethereal"
+},
+{
+  "id": "BG0011",
+  "title": "Tori-Gate Pathway",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207829/%E6%B0%97_jeewwq.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "nature", "japanese"],
+  "mood": "chill",
+  "type": "Manga"
+},
+
+{
+  "id": "BG0012",
+  "title": "Gate to a House",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207968/10e2b36b-34e3-4b0f-9c52-3597d01b9598_ezhisg.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "creepy", "japanese"],
+  "mood": "serious",
+  "type": "Manga"
+},
+
+{
+  "id": "BG0013",
+  "title": "Gate to a House",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208061/Manga_Background_Overlay___You_Can_Download_It_In_My_Tg_Channel__NightSwest_Link_%EF%B8%8F_u1yh5z.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "city", "home"],
+  "mood": "surreal",
+  "type": "Manga"
+},
+{
+  "id": "BG0014",
+  "title": "Forest Pathway",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208145/download_2_dax2bq.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "forest", "nature"],
+  "mood": "surreal",
+  "type": "Manga"
+},
+{
+  "id": "BG0015",
+  "title": "City Buildings",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208244/download_3_ltm5ol.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "city", "buildings"],
+  "mood": "serious",
+  "type": "Manga"
+},
+{
+  "id": "BG0016",
+  "title": "Railway Track",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208335/download_4_ub35ny.jpg",
+  "contributor": "",
+  "tags": ["manga", "anime", "city", "railway"],
+  "mood": "serious",
+  "type": "Manga"
 }
 
 ]
-
