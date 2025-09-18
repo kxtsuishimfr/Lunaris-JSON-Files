@@ -78,6 +78,27 @@
   "tags": ["moody", "football", "blue-lock", "anime"],
   "mood": "calm",
   "type": "anime"
+},
+{
+  "id": "BG0009",
+  "title": "Forest with River",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206023/IMG-20250909-WA0026_pgq2dm.jpg",
+  "contributor": "",
+  "tags": ["dark", "forest", "creepy", "surreal"],
+  "mood": "mysterious",
+  "type": "ethereal"
+},
+{
+  "id": "BG0010",
+  "title": "Sakura Trees",
+  "date": "9-18-2025",
+  "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206171/download_1_lflegl.jpg",
+  "contributor": "",
+  "tags": ["pink", "sakura", "japanese", "surreal"],
+  "mood": "mysterious",
+  "type": "ethereal"
 }
 
 ]
+
