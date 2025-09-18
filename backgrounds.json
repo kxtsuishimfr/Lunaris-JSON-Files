@@ -6,7 +6,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930167/photo_5816624422168153082_y_iilvqy.jpg",
   "contributor": "",
   "tags": ["school", "hallway", "anime", "eerie"],
-  "mood": "creepy"
+  "mood": "creepy",
+  "type": "anime"
 },
   {
   "id": "BG0002",
@@ -15,7 +16,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930245/photo_6048334549122926812_y_jnljrw.jpg",
   "contributor": "",
   "tags": ["fight", "meetup", "jjk", "anime"],
-  "mood": "action"
+  "mood": "action",
+  "type": "anime"
 },
 {
   "id": "BG0003",
@@ -24,7 +26,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121339/bgidkhowmuch_aazoze.png",
   "contributor": "",
   "tags": ["mysterious", "tori-gate", "sketchy", "anime"],
-  "mood": "mysterious"
+  "mood": "mysterious",
+  "type": "anime"
 },
 {
   "id": "BG0004",
@@ -33,7 +36,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121490/IMG_2717_tmdsmf.jpg",
   "contributor": "",
   "tags": ["soft", "football", "light-hour", "anime"],
-  "mood": "calm"
+  "mood": "calm",
+  "type": "anime"
 },
 {
   "id": "BG0005",
@@ -42,7 +46,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121592/IMG_2762_j2qjfh.jpg",
   "contributor": "",
   "tags": ["action", "football", "blue-lock", "anime"],
-  "mood": "intense"
+  "mood": "intense",
+  "type": "anime"
 },
 {
   "id": "BG0006",
@@ -51,7 +56,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121641/IMG_2760_bo6rrc.jpg",
   "contributor": "",
   "tags": ["mysterious", "city", "intense", "anime"],
-  "mood": "intense"
+  "mood": "intense",
+  "type": "anime"
 },
 {
   "id": "BG0007",
@@ -60,7 +66,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121712/IMG_2718_irl72g.jpg",
   "contributor": "",
   "tags": ["soft", "football", "blue-lock", "anime"],
-  "mood": "calm"
+  "mood": "calm",
+  "type": "anime"
 },
 {
   "id": "BG0008",
@@ -69,7 +76,8 @@
   "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121775/IMG_2716_uxahqi.jpg",
   "contributor": "",
   "tags": ["moody", "football", "blue-lock", "anime"],
-  "mood": "calm"
+  "mood": "calm",
+  "type": "anime"
 }
 
 ]
