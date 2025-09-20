@@ -241,7 +241,7 @@
   },
   {
     "id": "BG0017",
-    "title": "bg",
+    "title": "Tori-Gate Pathway",
     "date": "9-19-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758310596/lockscreen_deyk9g.jpg",
     "contributor": "Kenshakoz",
@@ -256,5 +256,51 @@
     ],
     "mood": "calm",
     "type": "Manga"
+  },
+   {
+    "id": "BG0018",
+    "title": "Rooftop View",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758407989/Background_greenscreen_mamga_animation_jjk_anime_e91tpl.jpg",
+    "contributor": "",
+    "tags": [
+      "rooftop",
+      "anime",
+      "city",
+      "buildings"
+    ],
+    "mood": "calm",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0019",
+    "title": "City Crosswalk",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408125/background_for_edits_nyha9n.jpg",
+    "contributor": "",
+    "tags": [
+      "crosswalk",
+      "anime",
+      "city",
+      "buildings"
+    ],
+    "mood": "mysterious",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0020",
+    "title": "Rock Pathway",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408199/background_b6vjez.jpg",
+    "contributor": "",
+    "tags": [
+      "rock",
+      "anime",
+      "nature",
+      "pathway"
+    ],
+    "mood": "calm",
+    "type": "Anime"
   }
 ]
+
