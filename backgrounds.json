@@ -301,6 +301,52 @@
     ],
     "mood": "calm",
     "type": "Anime"
+  },
+  {
+    "id": "BG0021",
+    "title": "Laborator With Red Lights",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413259/photo_1_2025-09-20_19-07-11_dbk8rl.jpg",
+    "contributor": "",
+    "tags": [
+      "laborator",
+      "science",
+      "creepy",
+      "intense"
+    ],
+    "mood": "serious",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0022",
+    "title": "Empty Club",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413416/photo_2_2025-09-20_19-07-11_tyudhr.jpg",
+    "contributor": "",
+    "tags": [
+      "club",
+      "dance",
+      "dark",
+      "intense"
+    ],
+    "mood": "chill",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0023",
+    "title": "Japanese Enclosure",
+    "date": "9-21-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413495/photo_3_2025-09-20_19-07-11_aktdlw.jpg",
+    "contributor": "",
+    "tags": [
+      "japanese",
+      "culture",
+      "fight",
+      "intense"
+    ],
+    "mood": "action",
+    "type": "Anime"
   }
 ]
+
 
