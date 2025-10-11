@@ -10,5 +10,5 @@
   "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
   "virus-tested": "App passed the virus check.",
   "file-size": "4GB",
-  "install-guide": "Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions. Run Setup.exe."
+  "install-guide": "Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
 }
