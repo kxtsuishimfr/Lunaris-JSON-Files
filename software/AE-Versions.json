@@ -3,9 +3,12 @@
   "date": "2025-10-11",
   "version": "2025",
   "name": "After Effects",
-  "contributor": "",
+  "contributor": "Lunar Katsu",
   "password": "lofix",
   "credits": "Developed by Adobe Systems Incorporated, provided by Lofix server.",
   "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
-  "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing"
+  "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
+  "virus-tested": "App passed the virus check.",
+  "file-size": "4GB"
+  "install-tut": "After mounting the ISO file from the ZIP file, turn off your internet/ethernet (so the the app can't talk with the servers, and so Windows doesn't tamper with the installation proccess.), then turn off your antivirus and do the following things before trying to install the app: Add the Setup.exe file as an exclusion in your antirus and do then do the same with the packages, products and resources folder. After doing so, run the Setup.exe file and install the app."
 }
