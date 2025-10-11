@@ -10,5 +10,5 @@
   "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
   "virus-tested": "App passed the virus check.",
   "file-size": "4GB",
-  "install-tut": "After mounting the ISO file from the ZIP file, turn off your internet/ethernet (so the the app can't talk with the servers, and so Windows doesn't tamper with the installation proccess.), then turn off your antivirus and do the following things before trying to install the app: Add the Setup.exe file as an exclusion in your antirus and do then do the same with the packages, products and resources folder. After doing so, run the Setup.exe file and install the app."
+  "install-guide": "Mount the ISO file from the ZIP, then install After Effects using Setup.exe. If your antivirus flags the installer by mistake, temporarily add it and its folders (packages, products, resources) to exclusions. For the smoothest setup, disconnect from the internet during installation to prevent activation issues."
 }
