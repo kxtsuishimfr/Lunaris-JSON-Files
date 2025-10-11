@@ -1,27 +1,30 @@
-{
-  "title": "Adobe After Effects",
-  "date": "2025-10-11",
-  "version": "2025",
-  "name": "After Effects",
-  "contributor": "Lunar Katsu",
-  "password": "lofix",
-  "credits": "Developed by Adobe Systems Incorporated, provided by Lofix Discord server.",
-  "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
-  "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
-  "virus-tested": "App passed the virus check. (Tested on Personal Device).",
-  "file-size": "4GB",
-  "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe.".
-
-  "title": "Adobe After Effects",
-  "date": "2025-10-11",
-  "version": "2024",
-  "name": "After Effects",
-  "contributor": "Lunar Katsu",
-  "password": "lofix",
-  "credits": "Developed by Adobe Systems Incorporated, provided by Lofix Discord server.",
-  "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
-  "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
-  "virus-tested": "App passed the virus check. (Tested on Personal Device).",
-  "file-size": "3.2GB",
-  "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
-}
+[
+  {
+    "title": "Adobe After Effects",
+    "date": "2025-10-11",
+    "version": "2025",
+    "name": "After Effects",
+    "contributor": "Lunar Katsu",
+    "password": "lofix",
+    "credits": "Developed by Adobe Systems Incorporated, provided by Lofix Discord server.",
+    "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
+    "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
+    "virus-tested": "App passed the virus check. (Tested on Personal Device).",
+    "file-size": "4GB",
+    "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
+  },
+  {
+    "title": "Adobe After Effects",
+    "date": "2025-10-11",
+    "version": "2024",
+    "name": "After Effects",
+    "contributor": "Lunar Katsu",
+    "password": "lofix",
+    "credits": "Developed by Adobe Systems Incorporated, provided by Lofix Discord server.",
+    "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
+    "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
+    "virus-tested": "App passed the virus check. (Tested on Personal Device).",
+    "file-size": "3.2GB",
+    "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
+  }
+]
