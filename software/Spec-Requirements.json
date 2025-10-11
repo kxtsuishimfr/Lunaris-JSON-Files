@@ -1,0 +1,178 @@
+{
+  "after_effects_versions": [
+    {
+      "name": "After Effects 2020",
+      "version": "17.1",
+      "released": 2020,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.18362",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 2,
+          "recommended": 4
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    },
+    {
+      "name": "After Effects 2021",
+      "version": "18.0",
+      "released": 2021,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.18362",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 2,
+          "recommended": 4
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    },
+    {
+      "name": "After Effects 2022",
+      "version": "22.0",
+      "released": 2022,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.19041",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 2,
+          "recommended": 4
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    },
+    {
+      "name": "After Effects 2023",
+      "version": "23.0",
+      "released": 2023,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.19042",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 3,
+          "recommended": 4
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    },
+    {
+      "name": "After Effects 2024",
+      "version": "24.0",
+      "released": 2024,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.22621",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 4,
+          "recommended": 6
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    },
+    {
+      "name": "After Effects 2025",
+      "version": "25.0",
+      "released": 2025,
+      "requirements": {
+        "os": {
+          "min_version": "10.0.22621",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 6
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 4,
+          "recommended": 6
+        },
+        "storage_gb": {
+          "min": 15,
+          "recommended": 50
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    }
+  ]
+}
