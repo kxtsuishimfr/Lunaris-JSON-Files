@@ -376,9 +376,35 @@
     ],
     "mood": "calm",
     "type": "Ethereal"
+  },
+  {
+    "id": "BG0026",
+    "title": "Rock Pathway",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298594/Kenji_Gonzales_mlhcv7.jpg",
+    "contributor": "",
+    "tags": [
+      "trees",
+      "nature",
+      "pathway",
+      "surreal"
+    ],
+    "mood": "calm",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0027",
+    "title": "Trees Near Buildings",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298667/f9f26e62-8e81-4c0c-838b-7f0656578bde_izid3o.jpg",
+    "contributor": "",
+    "tags": [
+      "trees",
+      "village",
+      "pathway",
+      "school"
+    ],
+    "mood": "calm",
+    "type": "Anime"
   }
 ]
-
-
-
-
