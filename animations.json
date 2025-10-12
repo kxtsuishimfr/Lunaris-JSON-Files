@@ -511,6 +511,43 @@
     "character": "Sukuna",
     "series": "Jujutsu Kaisen",
     "id": "SK0008"
+  },
+  {
+    "title": "Gojo Animation",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285562/IMG_7804_2_u15u7o.mp4",
+    "contributor": "",
+    "character": "Gojo",
+    "series": "Jujutsu Kaisen",
+    "id": "GJ0026"
+  },
+  {
+    "title": "Goku Animation",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285680/document_5402272562841421628_wubjia.mp4",
+    "contributor": "Sapaleto",
+    "character": "Goku",
+    "series": "Dragon Ball",
+    "id": "GK0010"
+  },
+  {
+    "title": "Goku Animation",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285739/document_5402541930305326369_zoo7gt.mp4",
+    "contributor": "Sapaleto",
+    "character": "Goku",
+    "series": "Dragon Ball",
+    "id": "GK0011"
+  },
+  {
+    "title": "Goku Animation",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285772/document_5402541930305326371_n4jp1x.mp4",
+    "contributor": "Sapaleto",
+    "character": "Goku",
+    "series": "Dragon Ball",
+    "id": "GK0012"
   }
 ]
+
 
