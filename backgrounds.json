@@ -346,8 +346,39 @@
     ],
     "mood": "action",
     "type": "Anime"
+  },
+  {
+    "id": "BG0024",
+    "title": "Pretty Castle View",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
+    "contributor": "",
+    "tags": [
+      "flowers",
+      "nature",
+      "ruins",
+      "surreal"
+    ],
+    "mood": "calm",
+    "type": "Ethereal"
+  },
+  {
+    "id": "BG0025",
+    "title": "Flower Field",
+    "date": "10-12-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
+    "contributor": "",
+    "tags": [
+      "grass",
+      "nature",
+      "flowers",
+      "surreal"
+    ],
+    "mood": "calm",
+    "type": "Ethereal"
   }
 ]
+
 
 
 
