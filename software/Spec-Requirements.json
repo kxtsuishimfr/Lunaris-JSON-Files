@@ -131,7 +131,7 @@
         },
         "ram_gb": {
           "min": 16,
-          "recommended": 64
+          "recommended": 32
         },
         "gpu_vram_gb": {
           "min": 4,
@@ -160,7 +160,7 @@
         },
         "ram_gb": {
           "min": 16,
-          "recommended": 64
+          "recommended": 32
         },
         "gpu_vram_gb": {
           "min": 4,
