@@ -308,15 +308,6 @@
   {
     "title": "Gojo Animation",
     "date": "9-15-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757949269/Gojo_Satoru_Animation_2_hcbjqg.mp4",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0020"
-  },
-  {
-    "title": "Gojo Animation",
-    "date": "9-15-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757949313/Gojo_Satoru_Animation_3_uzgi94.mp4",
     "contributor": "",
     "character": "Gojo",
@@ -619,5 +610,14 @@
     "character": "Yuta",
     "series": "Jujutsu Kaisen",
     "id": "YT0008"
+  },
+    {
+    "title": "Gojo Animation",
+    "date": "9-15-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1757949269/Gojo_Satoru_Animation_2_hcbjqg.mp4",
+    "contributor": "",
+    "character": "Gojo",
+    "series": "Jujutsu Kaisen",
+    "id": "GJ0027"
   }
 ]
