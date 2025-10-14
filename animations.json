@@ -525,7 +525,7 @@
     "title": "Goku Animation",
     "date": "10-12-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285680/document_5402272562841421628_wubjia.mp4",
-    "contributor": "Sapaleto",
+    "contributor": "",
     "character": "Goku",
     "series": "Dragon Ball",
     "id": "GK0010"
@@ -534,7 +534,7 @@
     "title": "Goku Animation",
     "date": "10-12-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285739/document_5402541930305326369_zoo7gt.mp4",
-    "contributor": "Sapaleto",
+    "contributor": "",
     "character": "Goku",
     "series": "Dragon Ball",
     "id": "GK0011"
@@ -543,11 +543,81 @@
     "title": "Goku Animation",
     "date": "10-12-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760285772/document_5402541930305326371_n4jp1x.mp4",
-    "contributor": "Sapaleto",
+    "contributor": "",
     "character": "Goku",
     "series": "Dragon Ball",
     "id": "GK0012"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464511/Novo_projeto_115_0D86CB2_vb7seb.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0001"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464620/Topaz_Without_Lag_662F8B9_aud6dx.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0002"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464648/New_Project_278_BF87523_tqswzm.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0003"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464684/Novo_projeto_107_247CD76_aprtgh.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0004"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464711/Novo_projeto_115_960F7A3_otu0gf.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0005"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464737/Topaz_Without_Lag_77AFB33_ydll58.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0006"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464830/Topaz_Without_Lag_BFEBFEB_hchprr.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0007"
+  },
+  {
+    "title": "Yuta Animation",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760464770/Topaz_Without_Lag_B91E10F_xnaprh.mp4",
+    "contributor": "",
+    "character": "Yuta",
+    "series": "Jujutsu Kaisen",
+    "id": "YT0008"
   }
 ]
-
-
