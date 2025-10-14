@@ -406,5 +406,158 @@
     ],
     "mood": "calm",
     "type": "Anime"
+  },
+  {
+    "id": "BG0028",
+    "title": "Balcony View",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462903/background_for_manga_edits_vffgqf.jpg",
+    "contributor": "",
+    "tags": [
+      "buildings",
+      "anime",
+      "city",
+      "balcony"
+    ],
+    "mood": "action",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0029",
+    "title": "City Buildings",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462998/background_1_jdqgj9.jpg",
+    "contributor": "",
+    "tags": [
+      "buildings",
+      "anime",
+      "city",
+      "ruined"
+    ],
+    "mood": "action",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0030",
+    "title": "Building Entrance",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463060/2e9d9387-29d6-49e4-ac0e-ff735ac29f4d_vmfyir.jpg",
+    "contributor": "",
+    "tags": [
+      "buildings",
+      "anime",
+      "city",
+      "entrance"
+    ],
+    "mood": "action",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0031",
+    "title": "Building Entrance",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463152/%E1%B4%8F%E1%B4%8D%C9%B4%C9%AAs%E1%B4%84%C9%AA%E1%B4%87%C9%B4%E1%B4%9B_%CA%80%E1%B4%87%E1%B4%80%E1%B4%85%E1%B4%87%CA%80_afge51.jpg",
+    "contributor": "",
+    "tags": [
+      "cartoony",
+      "anime",
+      "city",
+      "smoke"
+    ],
+    "mood": "fight",
+    "type": "Anime"
+  },
+  {
+    "id": "BG0032",
+    "title": "Sky View",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463260/Koto_xyxcjb.jpg",
+    "contributor": "",
+    "tags": [
+      "buildings",
+      "manga",
+      "city",
+      "sky"
+    ],
+    "mood": "fight",
+    "type": "Manga"
+  },
+  {
+    "id": "BG0033",
+    "title": "Japanese Bedroom",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463337/bedroom_otlopn.jpg",
+    "contributor": "",
+    "tags": [
+      "house",
+      "manga",
+      "japanese",
+      "nature"
+    ],
+    "mood": "calm",
+    "type": "Manga"
+  },
+  {
+    "id": "BG0034",
+    "title": "School Hallway",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463432/download_14_jhujhe.jpg",
+    "contributor": "",
+    "tags": [
+      "school",
+      "manga",
+      "hallway",
+      "creepy"
+    ],
+    "mood": "serious",
+    "type": "Manga"
+  },
+  {
+    "id": "BG0035",
+    "title": "School Classroom",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463498/download_15_tooziv.jpg",
+    "contributor": "",
+    "tags": [
+      "school",
+      "manga",
+      "classroom",
+      "creepy",
+      "eerie"
+    ],
+    "mood": "serious",
+    "type": "Manga"
+  },
+  {
+    "id": "BG0036",
+    "title": "Heavenly Space",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463603/https___www_xiaohongshu_fl85rn.jpg",
+    "contributor": "",
+    "tags": [
+      "space",
+      "ethereal",
+      "surreal",
+      "calmful",
+      "anime"
+    ],
+    "mood": "calm",
+    "type": "Ethereal"
+  },
+  {
+    "id": "BG0037",
+    "title": "Empty Cathedral",
+    "date": "10-14-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463710/download_16_ffabiw.jpg",
+    "contributor": "",
+    "tags": [
+      "church",
+      "ethereal",
+      "surreal",
+      "calmful",
+      "anime"
+    ],
+    "mood": "calm",
+    "type": "Ethereal"
   }
 ]
