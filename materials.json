@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "MT0001",
+    "title": "Snowy Mountain",
+    "date": "10-16-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760632707/mountain.png",
+    "contributor": "",
+    "tags": ["mountain", "snow", "terrain", "background"],
+    "category": "terrain"
+  }
+]
