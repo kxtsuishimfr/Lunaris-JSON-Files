@@ -6,7 +6,7 @@
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760632707/VID_20250720_153643_699_r81bpp.mp4",
     "contributor": "",
     "tags": ["lines", "intense", "transition", "black-white"],
-    "assetType": "video",
+    "assetType": "video"
   },
    {
     "id": "OL0002",
@@ -15,6 +15,6 @@
     "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760632698/photo_5154561363886672704_x_d4wjyb.jpg",
     "contributor": "",
     "tags": ["universe", "stars", "space", "purple"],
-    "assetType": "image",
+    "assetType": "image"
   }
 ]
