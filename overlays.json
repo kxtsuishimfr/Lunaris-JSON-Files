@@ -16,5 +16,77 @@
     "contributor": "",
     "tags": ["universe", "stars", "space", "purple"],
     "assetType": "image"
+  },
+   {
+    "id": "OL0003",
+    "title": "Purple Fire",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760783931/VID_20250719_210415_263_nthitv.mp4",
+    "contributor": "",
+    "tags": ["fire", "intense", "background", "purple-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0004",
+    "title": "Smoke 1",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784104/VID_20250719_210420_709_tl1inb.mp4",
+    "contributor": "",
+    "tags": ["smoke", "calm", "background", "grey-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0005",
+    "title": "Smoke 2",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784169/VID_20250719_210420_770_wfswqr.mp4",
+    "contributor": "",
+    "tags": ["smoke", "calm", "background", "grey-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0006",
+    "title": "Particles 1",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784230/VID_20250719_210415_586_cbiywx.mp4",
+    "contributor": "",
+    "tags": ["particles", "calm", "background", "grey-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0007",
+    "title": "Blue Fire",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784288/VID_20250719_210414_948_afyoxx.mp4",
+    "contributor": "",
+    "tags": ["Fire", "intense", "background", "blue-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0008",
+    "title": "Cloud and Particles",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784408/VID_20250719_210415_330_xfwxo1.mp4",
+    "contributor": "",
+    "tags": ["space", "intense", "background", "blue-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0009",
+    "title": "Cartoonish Purple Fire",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784494/VID_20250719_210415_554_bi0ena.mp4",
+    "contributor": "",
+    "tags": ["fire", "goofy", "background", "purple-white"],
+    "assetType": "video"
+  },
+  {
+    "id": "OL0009",
+    "title": "Particles 2",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760784550/VID_20250719_210415_078_iygvgz.mp4",
+    "contributor": "",
+    "tags": ["particles", "intense", "background", "red-white"],
+    "assetType": "video"
   }
 ]
