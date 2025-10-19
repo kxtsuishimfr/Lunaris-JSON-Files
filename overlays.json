@@ -113,7 +113,16 @@
     "date": "10-18-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760810436/VID_20250719_210019_278_extnai.mp4",
     "contributor": "",
-    "tags": ["transition", "lines", "matrix", "blue-white"],
+    "tags": ["transition", "lines", "intense", "blue-white"],
+    "assetType": "video"
+  },
+   {
+    "id": "OL0013",
+    "title": "Particles With Smoke",
+    "date": "10-18-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1760869927/VID_20250719_210411_040_rgea0r.mp4",
+    "contributor": "",
+    "tags": ["particles", "smoke", "calm", "grey-white"],
     "assetType": "video"
   }
 ]
