@@ -143,11 +143,20 @@
     "tags": ["camera", "object", "misc", "red-black-white"],
     "assetType": "image"
   },
-   {
+  {
     "id": "OL0016",
     "title": "Camera Lines 2",
     "date": "10-16-2025",
     "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761418712/3cfc8e01f24c5a9d02f546ee6a2b86d9_ujmml9.jpg",
+    "contributor": "",
+    "tags": ["camera", "object", "misc", "red-black-white"],
+    "assetType": "image"
+  },
+   {
+    "id": "OL0017",
+    "title": "Camera View",
+    "date": "10-16-2025",
+    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761418825/0a4cda4e475c3a976ce0e924ee2986ce_b4tit0.jpg",
     "contributor": "",
     "tags": ["camera", "object", "misc", "red-black-white"],
     "assetType": "image"
