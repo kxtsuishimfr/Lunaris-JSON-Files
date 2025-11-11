@@ -1,0 +1,7 @@
+{
+  "notification": {
+    "send": true,
+    "title": "Audio Hub Update",
+    "message": "Audio Hub has a new feature available!"
+  }
+}
