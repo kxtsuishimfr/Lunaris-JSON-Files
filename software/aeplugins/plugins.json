@@ -1,1 +1,12 @@
-empty
+{
+  "ae_plugins": [
+    {
+      "thumb": "cool-fx-thumb.png",
+      "title": "title here",
+      "desc": "the desc",
+      "link": "leavy empty for now",
+      "default-thumb-link": "empty for now",
+      "use-default-thumb": false
+    }
+  ]
+}
