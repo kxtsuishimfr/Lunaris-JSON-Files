@@ -1,1 +1,36 @@
-asd
+{
+  "topaz_versions": [
+    {
+      "name": "Topaz AI",
+      "version": "2.6",
+      "released": 2025,
+      "requirements": {
+        "os": {
+          "min_version": "Windows 10/11",
+          "arch": "x64"
+        },
+        "cpu_cores": {
+          "min": 4,
+          "recommended": 8
+        },
+        "ram_gb": {
+          "min": 16,
+          "recommended": 32
+        },
+        "gpu_vram_gb": {
+          "min": 6,
+          "recommended": 12
+        },
+        "storage_gb": {
+          "min": 10,
+          "recommended": 30
+        },
+        "display_width": 1920,
+        "display_height": 1080
+      }
+    }
+  ]
+}
+
+
+// To-do: Implement Topaz support in the "software" hub
