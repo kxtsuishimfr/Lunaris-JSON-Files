@@ -9,6 +9,17 @@
       "use-default-thumb": false,
       "password": "lunaris",
       "contributor": ""
+    },
+
+    {
+      "thumb-link": "",
+      "title": "Magic Bullet Looks 2024",
+      "desc": "Magic Bullet Looks is an After Effects plugin that delivers professional, cinematic color grading and film-like finishes with a focus on speed, creativity, and intuitive controls.",
+      "link": "https://drive.google.com/file/d/1ZhIWP4jOE6irwV38TAi4-lOS5Fq--3UN/view?usp=sharing",
+      "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+      "use-default-thumb": true,
+      "password": "lunaris",
+      "contributor": ""
     }
   ]
 }
