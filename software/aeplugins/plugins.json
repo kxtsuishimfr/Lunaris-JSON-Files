@@ -2,7 +2,7 @@
   "ae_plugins": [
     {
       "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/DeepGlow-Thumb.png?raw=true",
-      "title": "Deep Glow V2",
+      "title": "Deep Glow 1.2",
       "desc": "Deep Glow is an After Effects plugin that creates high-quality, photorealistic glow effects with a focus on performance and ease of use.",
       "link": "https://drive.google.com/file/d/15nOvTZbDIVLdwZpAQMkuH46RtTsMZYtU/view?usp=sharing",
       "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
@@ -27,6 +27,17 @@
       "title": "BCC 2024",
       "desc": "BCC is an After Effects plugin suite that delivers versatile visual effects, advanced transitions, and high-quality post tools with a focus on performance, flexibility, and smooth creative control.",
       "link": "https://drive.google.com/file/d/1kl5vp1uBKQOp1cpAZlRhQWBEp1I-kGKQ/view?usp=sharing",
+      "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+      "use-default-thumb": true,
+      "password": "lunaris",
+      "contributor": ""
+    },
+
+    {
+      "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/DeepGlow-Thumb.png?raw=true",
+      "title": "Deep Glow 2",
+      "desc": "Deep Glow is an After Effects plugin that creates high-quality, photorealistic glow effects with a focus on performance and ease of use.",
+      "link": "https://drive.google.com/file/d/1kShSZC4F1gkyHbCK1qZOTlCk599Eqzgg/view?usp=sharing",
       "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
       "use-default-thumb": true,
       "password": "lunaris",
