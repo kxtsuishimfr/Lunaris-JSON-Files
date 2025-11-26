@@ -13,7 +13,7 @@
 
     {
       "thumb-link": "",
-      "title": "Magic Bullet Looks 2024",
+      "title": "Magic Bullet Suite 2024",
       "desc": "Magic Bullet Looks is an After Effects plugin that delivers professional, cinematic color grading and film-like finishes with a focus on speed, creativity, and intuitive controls.",
       "link": "https://drive.google.com/file/d/1ZhIWP4jOE6irwV38TAi4-lOS5Fq--3UN/view?usp=sharing",
       "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
@@ -38,6 +38,17 @@
       "title": "Deep Glow 2",
       "desc": "Deep Glow is an After Effects plugin that creates high-quality, photorealistic glow effects with a focus on performance and ease of use.",
       "link": "https://drive.google.com/file/d/1kShSZC4F1gkyHbCK1qZOTlCk599Eqzgg/view?usp=sharing",
+      "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+      "use-default-thumb": true,
+      "password": "lunaris",
+      "contributor": ""
+    },
+
+    {
+      "thumb-link": "",
+      "title": "Magic Bullet Suite 2025",
+      "desc": "Magic Bullet Looks is an After Effects plugin that delivers professional, cinematic color grading and film-like finishes with a focus on speed, creativity, and intuitive controls.",
+      "link": "https://drive.google.com/file/d/1Vx7DgaMms3eNIaoUxMWWoftHIiJJEAjf/view?usp=sharing",
       "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
       "use-default-thumb": true,
       "password": "lunaris",
