@@ -53,6 +53,17 @@
       "use-default-thumb": true,
       "password": "lunaris",
       "contributor": ""
+    },
+
+    {
+      "thumb-link": "",
+      "title": "Trapcode Suite 2024",
+      "desc": "Trapcode Suite is a collection of After Effects plugins designed for creating high-quality particle effects, complex motion graphics, and dynamic simulations with precision, performance, and intuitive creative control.",
+      "link": "https://drive.google.com/file/d/1WbzyKAtTA6TDrHYlru7zH_wyWRPX5TUq/view?usp=sharing",
+      "default-thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+      "use-default-thumb": true,
+      "password": "lunaris",
+      "contributor": ""
     }
   ]
 }
