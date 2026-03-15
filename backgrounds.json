@@ -1,581 +1,560 @@
-[
-  {
-    "id": "BG0001",
-    "title": "Eerie School Hallway",
-    "date": "8-23-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930167/photo_5816624422168153082_y_iilvqy.jpg",
-    "contributor": "",
-    "tags": [
-      "school",
-      "hallway",
-      "anime",
-      "eerie"
-    ],
-    "mood": "creepy",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0002",
-    "title": "Gojo Meetup?!",
-    "date": "8-23-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930245/photo_6048334549122926812_y_jnljrw.jpg",
-    "contributor": "",
-    "tags": [
-      "fight",
-      "meetup",
-      "jjk",
-      "anime"
-    ],
-    "mood": "action",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0003",
-    "title": "Gate Entry",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121339/bgidkhowmuch_aazoze.png",
-    "contributor": "",
-    "tags": [
-      "mysterious",
-      "tori-gate",
-      "sketchy",
-      "anime"
-    ],
-    "mood": "mysterious",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0004",
-    "title": "Yellowish Wall",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121490/IMG_2717_tmdsmf.jpg",
-    "contributor": "",
-    "tags": [
-      "soft",
-      "football",
-      "light-hour",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0005",
-    "title": "Football Field",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121592/IMG_2762_j2qjfh.jpg",
-    "contributor": "",
-    "tags": [
-      "action",
-      "football",
-      "blue-lock",
-      "anime"
-    ],
-    "mood": "intense",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0006",
-    "title": "Dark City",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121641/IMG_2760_bo6rrc.jpg",
-    "contributor": "",
-    "tags": [
-      "mysterious",
-      "city",
-      "intense",
-      "anime"
-    ],
-    "mood": "intense",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0007",
-    "title": "Football Field",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121712/IMG_2718_irl72g.jpg",
-    "contributor": "",
-    "tags": [
-      "soft",
-      "football",
-      "blue-lock",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0008",
-    "title": "Wall Closeup",
-    "date": "9-17-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121775/IMG_2716_uxahqi.jpg",
-    "contributor": "",
-    "tags": [
-      "moody",
-      "football",
-      "blue-lock",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0009",
-    "title": "Forest with River",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206023/IMG-20250909-WA0026_pgq2dm.jpg",
-    "contributor": "",
-    "tags": [
-      "dark",
-      "forest",
-      "creepy",
-      "surreal"
-    ],
-    "mood": "mysterious",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0010",
-    "title": "Sakura Trees",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206171/download_1_lflegl.jpg",
-    "contributor": "",
-    "tags": [
-      "pink",
-      "sakura",
-      "japanese",
-      "surreal"
-    ],
-    "mood": "mysterious",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0011",
-    "title": "Tori-Gate Pathway",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207829/%E6%B0%97_jeewwq.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "nature",
-      "japanese"
-    ],
-    "mood": "chill",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0012",
-    "title": "Gate to a House",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207968/10e2b36b-34e3-4b0f-9c52-3597d01b9598_ezhisg.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "creepy",
-      "japanese"
-    ],
-    "mood": "serious",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0013",
-    "title": "Gate to a House",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208061/Manga_Background_Overlay___You_Can_Download_It_In_My_Tg_Channel__NightSwest_Link_%EF%B8%8F_u1yh5z.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "city",
-      "home"
-    ],
-    "mood": "surreal",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0014",
-    "title": "Forest Pathway",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208145/download_2_dax2bq.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "forest",
-      "nature"
-    ],
-    "mood": "surreal",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0015",
-    "title": "City Buildings",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208244/download_3_ltm5ol.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "city",
-      "buildings"
-    ],
-    "mood": "serious",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0016",
-    "title": "Railway Track",
-    "date": "9-18-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208335/download_4_ub35ny.jpg",
-    "contributor": "",
-    "tags": [
-      "manga",
-      "anime",
-      "city",
-      "railway"
-    ],
-    "mood": "serious",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0017",
-    "title": "Tori-Gate Pathway",
-    "date": "9-19-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758310596/lockscreen_deyk9g.jpg",
-    "contributor": "Kenshakoz",
-    "tags": [
-      "school",
-      "anime",
-      "sakura",
-      "japanese",
-      "manga",
-      "nature",
-      "buildings"
-    ],
-    "mood": "calm",
-    "type": "Manga"
-  },
-   {
-    "id": "BG0018",
-    "title": "Rooftop View",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758407989/Background_greenscreen_mamga_animation_jjk_anime_e91tpl.jpg",
-    "contributor": "",
-    "tags": [
-      "rooftop",
-      "anime",
-      "city",
-      "buildings"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0019",
-    "title": "City Crosswalk",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408125/background_for_edits_nyha9n.jpg",
-    "contributor": "",
-    "tags": [
-      "crosswalk",
-      "anime",
-      "city",
-      "buildings"
-    ],
-    "mood": "mysterious",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0020",
-    "title": "Rock Pathway",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408199/background_b6vjez.jpg",
-    "contributor": "",
-    "tags": [
-      "rock",
-      "anime",
-      "nature",
-      "pathway"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0021",
-    "title": "Laborator With Red Lights",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413259/photo_1_2025-09-20_19-07-11_dbk8rl.jpg",
-    "contributor": "",
-    "tags": [
-      "laborator",
-      "science",
-      "creepy",
-      "intense"
-    ],
-    "mood": "serious",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0022",
-    "title": "Empty Club",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413416/photo_2_2025-09-20_19-07-11_tyudhr.jpg",
-    "contributor": "",
-    "tags": [
-      "club",
-      "dance",
-      "dark",
-      "intense"
-    ],
-    "mood": "chill",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0023",
-    "title": "Japanese Enclosure",
-    "date": "9-21-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413495/photo_3_2025-09-20_19-07-11_aktdlw.jpg",
-    "contributor": "",
-    "tags": [
-      "japanese",
-      "culture",
-      "fight",
-      "intense"
-    ],
-    "mood": "action",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0024",
-    "title": "Pretty Castle View",
-    "date": "10-12-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
-    "contributor": "",
-    "tags": [
-      "flowers",
-      "nature",
-      "ruins",
-      "surreal"
-    ],
-    "mood": "calm",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0025",
-    "title": "Flower Field",
-    "date": "10-12-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
-    "contributor": "",
-    "tags": [
-      "grass",
-      "nature",
-      "flowers",
-      "surreal"
-    ],
-    "mood": "calm",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0026",
-    "title": "Rock Pathway",
-    "date": "10-12-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298594/Kenji_Gonzales_mlhcv7.jpg",
-    "contributor": "",
-    "tags": [
-      "trees",
-      "nature",
-      "pathway",
-      "surreal"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0027",
-    "title": "Trees Near Buildings",
-    "date": "10-12-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298667/f9f26e62-8e81-4c0c-838b-7f0656578bde_izid3o.jpg",
-    "contributor": "",
-    "tags": [
-      "trees",
-      "village",
-      "pathway",
-      "school"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0028",
-    "title": "Balcony View",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462903/background_for_manga_edits_vffgqf.jpg",
-    "contributor": "",
-    "tags": [
-      "buildings",
-      "anime",
-      "city",
-      "balcony"
-    ],
-    "mood": "action",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0029",
-    "title": "City Buildings",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462998/background_1_jdqgj9.jpg",
-    "contributor": "",
-    "tags": [
-      "buildings",
-      "anime",
-      "city",
-      "ruined"
-    ],
-    "mood": "action",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0030",
-    "title": "Building Entrance",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463060/2e9d9387-29d6-49e4-ac0e-ff735ac29f4d_vmfyir.jpg",
-    "contributor": "",
-    "tags": [
-      "buildings",
-      "anime",
-      "city",
-      "entrance"
-    ],
-    "mood": "action",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0031",
-    "title": "Building Entrance",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463152/%E1%B4%8F%E1%B4%8D%C9%B4%C9%AAs%E1%B4%84%C9%AA%E1%B4%87%C9%B4%E1%B4%9B_%CA%80%E1%B4%87%E1%B4%80%E1%B4%85%E1%B4%87%CA%80_afge51.jpg",
-    "contributor": "",
-    "tags": [
-      "cartoony",
-      "anime",
-      "city",
-      "smoke"
-    ],
-    "mood": "fight",
-    "type": "Anime"
-  },
-  {
-    "id": "BG0032",
-    "title": "Sky View",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463260/Koto_xyxcjb.jpg",
-    "contributor": "",
-    "tags": [
-      "buildings",
-      "manga",
-      "city",
-      "sky"
-    ],
-    "mood": "fight",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0033",
-    "title": "Japanese Bedroom",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463337/bedroom_otlopn.jpg",
-    "contributor": "",
-    "tags": [
-      "house",
-      "manga",
-      "japanese",
-      "nature"
-    ],
-    "mood": "calm",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0034",
-    "title": "School Hallway",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463432/download_14_jhujhe.jpg",
-    "contributor": "",
-    "tags": [
-      "school",
-      "manga",
-      "hallway",
-      "creepy"
-    ],
-    "mood": "serious",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0035",
-    "title": "School Classroom",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463498/download_15_tooziv.jpg",
-    "contributor": "",
-    "tags": [
-      "school",
-      "manga",
-      "classroom",
-      "creepy",
-      "eerie"
-    ],
-    "mood": "serious",
-    "type": "Manga"
-  },
-  {
-    "id": "BG0036",
-    "title": "Heavenly Space",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463603/https___www_xiaohongshu_fl85rn.jpg",
-    "contributor": "",
-    "tags": [
-      "space",
-      "ethereal",
-      "surreal",
-      "calmful",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0037",
-    "title": "Empty Cathedral",
-    "date": "10-14-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463710/download_16_ffabiw.jpg",
-    "contributor": "",
-    "tags": [
-      "church",
-      "ethereal",
-      "surreal",
-      "calmful",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Ethereal"
-  },
-  {
-    "id": "BG0038",
-    "title": "Hevenly Sky View",
-    "date": "10-16-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760629112/photo_6005730599555419051_y_retm8g.jpg",
-    "contributor": "",
-    "tags": [
-      "sky-view",
-      "ethereal",
-      "surreal",
-      "calmful",
-      "anime"
-    ],
-    "mood": "calm",
-    "type": "Anime"
-  }
-]
-
-
+{
+  "Anime": [
+    {
+      "id": "BG0002",
+      "title": "Gojo Meetup?!",
+      "date": "8-23-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930245/photo_6048334549122926812_y_jnljrw.jpg",
+      "contributor": "",
+      "tags": [
+        "fight",
+        "meetup",
+        "jjk",
+        "anime"
+      ],
+      "mood": "action"
+    },
+    {
+      "id": "BG0003",
+      "title": "Gate Entry",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121339/bgidkhowmuch_aazoze.png",
+      "contributor": "",
+      "tags": [
+        "mysterious",
+        "tori-gate",
+        "sketchy",
+        "anime"
+      ],
+      "mood": "mysterious"
+    },
+    {
+      "id": "BG0004",
+      "title": "Yellowish Wall",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121490/IMG_2717_tmdsmf.jpg",
+      "contributor": "",
+      "tags": [
+        "soft",
+        "football",
+        "light-hour",
+        "anime"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0005",
+      "title": "Football Field",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121592/IMG_2762_j2qjfh.jpg",
+      "contributor": "",
+      "tags": [
+        "action",
+        "football",
+        "blue-lock",
+        "anime"
+      ],
+      "mood": "intense"
+    },
+    {
+      "id": "BG0006",
+      "title": "Dark City",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121641/IMG_2760_bo6rrc.jpg",
+      "contributor": "",
+      "tags": [
+        "mysterious",
+        "city",
+        "intense",
+        "anime"
+      ],
+      "mood": "intense"
+    },
+    {
+      "id": "BG0007",
+      "title": "Football Field",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121712/IMG_2718_irl72g.jpg",
+      "contributor": "",
+      "tags": [
+        "soft",
+        "football",
+        "blue-lock",
+        "anime"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0008",
+      "title": "Wall Closeup",
+      "date": "9-17-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758121775/IMG_2716_uxahqi.jpg",
+      "contributor": "",
+      "tags": [
+        "moody",
+        "football",
+        "blue-lock",
+        "anime"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0018",
+      "title": "Rooftop View",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758407989/Background_greenscreen_mamga_animation_jjk_anime_e91tpl.jpg",
+      "contributor": "",
+      "tags": [
+        "rooftop",
+        "anime",
+        "city",
+        "buildings"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0019",
+      "title": "City Crosswalk",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408125/background_for_edits_nyha9n.jpg",
+      "contributor": "",
+      "tags": [
+        "crosswalk",
+        "anime",
+        "city",
+        "buildings"
+      ],
+      "mood": "mysterious"
+    },
+    {
+      "id": "BG0020",
+      "title": "Rock Pathway",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758408199/background_b6vjez.jpg",
+      "contributor": "",
+      "tags": [
+        "rock",
+        "anime",
+        "nature",
+        "pathway"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0021",
+      "title": "Laborator With Red Lights",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413259/photo_1_2025-09-20_19-07-11_dbk8rl.jpg",
+      "contributor": "",
+      "tags": [
+        "laborator",
+        "science",
+        "creepy",
+        "intense"
+      ],
+      "mood": "serious"
+    },
+    {
+      "id": "BG0022",
+      "title": "Empty Club",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413416/photo_2_2025-09-20_19-07-11_tyudhr.jpg",
+      "contributor": "",
+      "tags": [
+        "club",
+        "dance",
+        "dark",
+        "intense"
+      ],
+      "mood": "chill"
+    },
+    {
+      "id": "BG0023",
+      "title": "Japanese Enclosure",
+      "date": "9-21-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758413495/photo_3_2025-09-20_19-07-11_aktdlw.jpg",
+      "contributor": "",
+      "tags": [
+        "japanese",
+        "culture",
+        "fight",
+        "intense"
+      ],
+      "mood": "action"
+    },
+    {
+      "id": "BG0026",
+      "title": "Rock Pathway",
+      "date": "10-12-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298594/Kenji_Gonzales_mlhcv7.jpg",
+      "contributor": "",
+      "tags": [
+        "trees",
+        "nature",
+        "pathway",
+        "surreal"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0027",
+      "title": "Trees Near Buildings",
+      "date": "10-12-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298667/f9f26e62-8e81-4c0c-838b-7f0656578bde_izid3o.jpg",
+      "contributor": "",
+      "tags": [
+        "trees",
+        "village",
+        "pathway",
+        "school"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0028",
+      "title": "Balcony View",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462903/background_for_manga_edits_vffgqf.jpg",
+      "contributor": "",
+      "tags": [
+        "buildings",
+        "anime",
+        "city",
+        "balcony"
+      ],
+      "mood": "action"
+    },
+    {
+      "id": "BG0029",
+      "title": "City Buildings",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760462998/background_1_jdqgj9.jpg",
+      "contributor": "",
+      "tags": [
+        "buildings",
+        "anime",
+        "city",
+        "ruined"
+      ],
+      "mood": "action"
+    },
+    {
+      "id": "BG0030",
+      "title": "Building Entrance",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463060/2e9d9387-29d6-49e4-ac0e-ff735ac29f4d_vmfyir.jpg",
+      "contributor": "",
+      "tags": [
+        "buildings",
+        "anime",
+        "city",
+        "entrance"
+      ],
+      "mood": "action"
+    },
+    {
+      "id": "BG0031",
+      "title": "Building Entrance",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463152/%E1%B4%8F%E1%B4%8D%C9%B4%C9%AAs%E1%B4%84%C9%AA%E1%B4%87%C9%B4%E1%B4%9B_%CA%80%E1%B4%87%E1%B4%80%E1%B4%85%E1%B4%87%CA%80_afge51.jpg",
+      "contributor": "",
+      "tags": [
+        "cartoony",
+        "anime",
+        "city",
+        "smoke"
+      ],
+      "mood": "fight"
+    },
+    {
+      "id": "BG0038",
+      "title": "Hevenly Sky View",
+      "date": "10-16-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760629112/photo_6005730599555419051_y_retm8g.jpg",
+      "contributor": "",
+      "tags": [
+        "sky-view",
+        "ethereal",
+        "surreal",
+        "calmful",
+        "anime"
+      ],
+      "mood": "calm"
+    }
+  ],
+  "Ethereal": [
+    {
+      "id": "BG0009",
+      "title": "Forest with River",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206023/IMG-20250909-WA0026_pgq2dm.jpg",
+      "contributor": "",
+      "tags": [
+        "dark",
+        "forest",
+        "creepy",
+        "surreal"
+      ],
+      "mood": "mysterious"
+    },
+    {
+      "id": "BG0010",
+      "title": "Sakura Trees",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758206171/download_1_lflegl.jpg",
+      "contributor": "",
+      "tags": [
+        "pink",
+        "sakura",
+        "japanese",
+        "surreal"
+      ],
+      "mood": "mysterious"
+    },
+    {
+      "id": "BG0024",
+      "title": "Pretty Castle View",
+      "date": "10-12-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
+      "contributor": "",
+      "tags": [
+        "flowers",
+        "nature",
+        "ruins",
+        "surreal"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0025",
+      "title": "Flower Field",
+      "date": "10-12-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760298208/50ec6bfc-09d8-405a-8d9e-275577dda739_plijbk.jpg",
+      "contributor": "",
+      "tags": [
+        "grass",
+        "nature",
+        "flowers",
+        "surreal"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0036",
+      "title": "Heavenly Space",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463603/https___www_xiaohongshu_fl85rn.jpg",
+      "contributor": "",
+      "tags": [
+        "space",
+        "ethereal",
+        "surreal",
+        "calmful",
+        "anime"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0037",
+      "title": "Empty Cathedral",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463710/download_16_ffabiw.jpg",
+      "contributor": "",
+      "tags": [
+        "church",
+        "ethereal",
+        "surreal",
+        "calmful",
+        "anime"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0039",
+      "title": "Organuze",
+      "date": "3-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1773531531/Backgrounds/file_jhai65.jpg",
+      "contributor": "",
+      "tags": [
+        "blue-lock",
+        "cartoony",
+        "classroom"
+      ],
+      "mood": "calm"
+    }
+  ],
+  "Manga": [
+    {
+      "id": "BG0001",
+      "title": "Eerie School Hallway",
+      "date": "8-23-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1755930167/photo_5816624422168153082_y_iilvqy.jpg",
+      "contributor": "",
+      "tags": [
+        "school",
+        "hallway",
+        "anime",
+        "eerie"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0011",
+      "title": "Tori-Gate Pathway",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207829/%E6%B0%97_jeewwq.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "nature",
+        "japanese"
+      ],
+      "mood": "chill"
+    },
+    {
+      "id": "BG0012",
+      "title": "Gate to a House",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758207968/10e2b36b-34e3-4b0f-9c52-3597d01b9598_ezhisg.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "creepy",
+        "japanese"
+      ],
+      "mood": "serious"
+    },
+    {
+      "id": "BG0013",
+      "title": "Gate to a House",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208061/Manga_Background_Overlay___You_Can_Download_It_In_My_Tg_Channel__NightSwest_Link_%EF%B8%8F_u1yh5z.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "city",
+        "home"
+      ],
+      "mood": "surreal"
+    },
+    {
+      "id": "BG0014",
+      "title": "Forest Pathway",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208145/download_2_dax2bq.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "forest",
+        "nature"
+      ],
+      "mood": "surreal"
+    },
+    {
+      "id": "BG0015",
+      "title": "City Buildings",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208244/download_3_ltm5ol.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "city",
+        "buildings"
+      ],
+      "mood": "serious"
+    },
+    {
+      "id": "BG0016",
+      "title": "Railway Track",
+      "date": "9-18-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758208335/download_4_ub35ny.jpg",
+      "contributor": "",
+      "tags": [
+        "manga",
+        "anime",
+        "city",
+        "railway"
+      ],
+      "mood": "serious"
+    },
+    {
+      "id": "BG0017",
+      "title": "Tori-Gate Pathway",
+      "date": "9-19-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1758310596/lockscreen_deyk9g.jpg",
+      "contributor": "Kenshakoz",
+      "tags": [
+        "school",
+        "anime",
+        "sakura",
+        "japanese",
+        "manga",
+        "nature",
+        "buildings"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0032",
+      "title": "Sky View",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463260/Koto_xyxcjb.jpg",
+      "contributor": "",
+      "tags": [
+        "buildings",
+        "manga",
+        "city",
+        "sky"
+      ],
+      "mood": "fight"
+    },
+    {
+      "id": "BG0033",
+      "title": "Japanese Bedroom",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463337/bedroom_otlopn.jpg",
+      "contributor": "",
+      "tags": [
+        "house",
+        "manga",
+        "japanese",
+        "nature"
+      ],
+      "mood": "calm"
+    },
+    {
+      "id": "BG0034",
+      "title": "School Hallway",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463432/download_14_jhujhe.jpg",
+      "contributor": "",
+      "tags": [
+        "school",
+        "manga",
+        "hallway",
+        "creepy"
+      ],
+      "mood": "serious"
+    },
+    {
+      "id": "BG0035",
+      "title": "School Classroom",
+      "date": "10-14-2025",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760463498/download_15_tooziv.jpg",
+      "contributor": "",
+      "tags": [
+        "school",
+        "manga",
+        "classroom",
+        "creepy",
+        "eerie"
+      ],
+      "mood": "serious"
+    }
+  ]
+}
