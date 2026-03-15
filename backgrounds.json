@@ -280,6 +280,19 @@
         "anime"
       ],
       "mood": "calm"
+    },
+    {
+      "id": "BG0040",
+      "title": "Dark Sky",
+      "date": "3-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1773591858/Backgrounds/file_sxkne7.png",
+      "contributor": "",
+      "tags": [
+        "calmful",
+        "anime",
+        "action"
+      ],
+      "mood": "calm"
     }
   ],
   "Ethereal": [
