@@ -1,208 +1,214 @@
-[
-  {
-    "title": "Gojo PNG",
-    "date": "10-16-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760633946/1757982081442_ubx9yn.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0001"
+{
+  "Blue lock": {
+    "Isagi": [
+      {
+        "title": "Isagi PNG",
+        "date": "10-25-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402415/IMG_20250718_220102_985_qhp1dv.jpg",
+        "contributor": "",
+        "character": "Isagi",
+        "series": "Blue lock",
+        "id": "IG0001"
+      },
+      {
+        "title": "Isagi PNG",
+        "date": "10-25-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402460/IMG_20250718_220100_931_uywvil.jpg",
+        "contributor": "",
+        "character": "Isagi",
+        "series": "Blue lock",
+        "id": "IG0002"
+      }
+    ],
+    "Isagi / Kaiser": [
+      {
+        "title": "Isagi and Kaiser PNG",
+        "date": "10-25-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402492/IMG_20250718_220054_855_1_v1gk5j.jpg",
+        "contributor": "",
+        "character": "Isagi / Kaiser",
+        "series": "Blue lock",
+        "id": "IGKS0001"
+      },
+      {
+        "title": "Isagi and Kaiser PNG",
+        "date": "10-25-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402550/IMG_20250718_220052_775_rhm9al.jpg",
+        "contributor": "",
+        "character": "Isagi / Kaiser",
+        "series": "Blue lock",
+        "id": "IGKS0002"
+      },
+      {
+        "title": "Isagi and Kaiser PNG",
+        "date": "10-25-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402601/IMG_20250718_220059_196_nvdxjb.jpg",
+        "contributor": "",
+        "character": "Isagi / Kaiser",
+        "series": "Blue lock",
+        "id": "IGKS0003"
+      }
+    ]
   },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480057/Untitled215_20250522111630_ifhtbt.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0002"
+  "Jujutsu Kaisen": {
+    "Gojo": [
+      {
+        "title": "Gojo PNG",
+        "date": "10-16-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1760633946/1757982081442_ubx9yn.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0001"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480057/Untitled215_20250522111630_ifhtbt.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0002"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480090/Untitled216_20250522113219_onmmnr.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0003"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480144/1747894948669_zhtlwp.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0004"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480211/Untitled219_20250522115207_1_zrer57.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0005"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480304/1720289450910_1_tqgwt6.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0006"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480352/IMG_20250119_022629_117_muzz8i.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0007"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480378/IMG_20250119_022629_333_nsawry.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0008"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480408/IMG_20250119_022629_335_vvbofn.png",
+        "contributor": "",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "id": "GJ0009"
+      },
+      {
+        "title": "Gojo PNG",
+        "date": "3-14-2026",
+        "url": "https://afsdfsdfsdfsdf",
+        "contributor": "",
+        "id": "GJ0010",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      }
+    ]
   },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480090/Untitled216_20250522113219_onmmnr.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0003"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480144/1747894948669_zhtlwp.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0004"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480211/Untitled219_20250522115207_1_zrer57.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0005"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480304/1720289450910_1_tqgwt6.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0006"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480352/IMG_20250119_022629_117_muzz8i.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0007"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480378/IMG_20250119_022629_333_nsawry.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0008"
-  },
-  {
-    "title": "Gojo PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761480408/IMG_20250119_022629_335_vvbofn.png",
-    "contributor": "",
-    "character": "Gojo",
-    "series": "Jujutsu Kaisen",
-    "id": "GJ0009"
-  },
-
-  
-
-  
-  
-  {
-    "title": "Isagi PNG",
-    "date": "10-25-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402415/IMG_20250718_220102_985_qhp1dv.jpg",
-    "contributor": "",
-    "character": "Isagi",
-    "series": "Blue lock",
-    "id": "IG0001"
-  },
-  {
-    "title": "Isagi PNG",
-    "date": "10-25-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402460/IMG_20250718_220100_931_uywvil.jpg",
-    "contributor": "",
-    "character": "Isagi",
-    "series": "Blue lock",
-    "id": "IG0002"
-  },
-
-
-
-
-  
-
-  
-  {
-    "title": "Isagi and Kaiser PNG",
-    "date": "10-25-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402492/IMG_20250718_220054_855_1_v1gk5j.jpg",
-    "contributor": "",
-    "character": "Isagi / Kaiser",
-    "series": "Blue lock",
-    "id": "IGKS0001"
-  },
-  {
-    "title": "Isagi and Kaiser PNG",
-    "date": "10-25-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402550/IMG_20250718_220052_775_rhm9al.jpg",
-    "contributor": "",
-    "character": "Isagi / Kaiser",
-    "series": "Blue lock",
-    "id": "IGKS0002"
-  },
-  {
-    "title": "Isagi and Kaiser PNG",
-    "date": "10-25-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761402601/IMG_20250718_220059_196_nvdxjb.jpg",
-    "contributor": "",
-    "character": "Isagi / Kaiser",
-    "series": "Blue lock",
-    "id": "IGKS0003"
-  },
-
-
-
-
-
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479814/299_sin_t%C3%ADtulo_20240808144153_w13jh9.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0001"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479839/298_sin_t%C3%ADtulo_20240808143826_yrlluc.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0002"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479864/290_sin_t%C3%ADtulo_20240808135433_nkp9wk.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0003"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479892/295_sin_t%C3%ADtulo_20240808141407_f32sur.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0004"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479918/296_sin_t%C3%ADtulo_20240808142141_omupdj.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0005"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479942/301_sin_t%C3%ADtulo_20240808160634_rxt9vn.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0006"
-  },
-  {
-    "title": "Ren Yamashiro PNG",
-    "date": "10-26-2025",
-    "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479964/289_sin_t%C3%ADtulo_20240808130141_clhdua.png",
-    "contributor": "",
-    "character": "Ren Yamashiro",
-    "series": "Mato Seihei no Slave",
-    "id": "RYS0007"
+  "Mato Seihei no Slave": {
+    "Ren Yamashiro": [
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479814/299_sin_t%C3%ADtulo_20240808144153_w13jh9.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0001"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479839/298_sin_t%C3%ADtulo_20240808143826_yrlluc.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0002"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479864/290_sin_t%C3%ADtulo_20240808135433_nkp9wk.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0003"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479892/295_sin_t%C3%ADtulo_20240808141407_f32sur.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0004"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479918/296_sin_t%C3%ADtulo_20240808142141_omupdj.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0005"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479942/301_sin_t%C3%ADtulo_20240808160634_rxt9vn.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0006"
+      },
+      {
+        "title": "Ren Yamashiro PNG",
+        "date": "10-26-2025",
+        "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1761479964/289_sin_t%C3%ADtulo_20240808130141_clhdua.png",
+        "contributor": "",
+        "character": "Ren Yamashiro",
+        "series": "Mato Seihei no Slave",
+        "id": "RYS0007"
+      }
+    ]
   }
-]
+}
