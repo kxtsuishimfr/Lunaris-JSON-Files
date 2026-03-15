@@ -315,6 +315,42 @@
         "id": "GJ0035",
         "character": "Gojo",
         "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773593907/Animations/Gojo/file_mjoxvg.mp4",
+        "contributor": "",
+        "id": "GJ0036",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773594441/Animations/Gojo/file_ve8xrp.mp4",
+        "contributor": "",
+        "id": "GJ0037",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773596151/Animations/Gojo/file_pawe0d.mp4",
+        "contributor": "",
+        "id": "GJ0038",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773596233/Animations/Gojo/file_rh8kzl.mp4",
+        "contributor": "",
+        "id": "GJ0039",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
       }
     ],
     "Toji": [
@@ -724,6 +760,15 @@
         "character": "Sukuna",
         "series": "Jujutsu Kaisen",
         "id": "SK0017"
+      },
+      {
+        "title": "Sukuna Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773596043/Animations/Sukuna/file_tbo5yy.mp4",
+        "contributor": "",
+        "id": "SK0018",
+        "character": "Sukuna",
+        "series": "Jujutsu Kaisen"
       }
     ],
     "Yuta": [
