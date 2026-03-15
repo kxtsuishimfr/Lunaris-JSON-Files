@@ -288,6 +288,33 @@
         "id": "GJ0032",
         "character": "Gojo",
         "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773591453/Animations/Gojo/file_fii5xi.mp4",
+        "contributor": "",
+        "id": "GJ0033",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773591961/Animations/Gojo/file_r4tseo.mp4",
+        "contributor": "",
+        "id": "GJ0034",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773592249/Animations/Gojo/file_i78ziv.mp4",
+        "contributor": "",
+        "id": "GJ0035",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
       }
     ],
     "Toji": [
@@ -772,6 +799,17 @@
         "series": "Jujutsu Kaisen",
         "id": "YT0008"
       }
+    ],
+    "Yuji": [
+      {
+        "title": "Yuji Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773590201/Animations/Yuji/file_mimvrs.mp4",
+        "contributor": "",
+        "id": "YJ0001",
+        "character": "Yuji",
+        "series": "Jujutsu Kaisen"
+      }
     ]
   },
   "Dragon Ball": {
@@ -1251,7 +1289,7 @@
         "contributor": "",
         "character": "Uruma",
         "series": "Juujika no Rokunin",
-        "id": "URM0001"
+        "id": "RM0001"
       },
       {
         "title": "Uruma Animation",
@@ -1260,7 +1298,7 @@
         "contributor": "",
         "character": "Uruma",
         "series": "Juujika no Rokunin",
-        "id": "URM0002"
+        "id": "RM0002"
       },
       {
         "title": "Uruma Animation",
@@ -1269,7 +1307,7 @@
         "contributor": "",
         "character": "Uruma",
         "series": "Juujika no Rokunin",
-        "id": "URM0003"
+        "id": "RM0003"
       },
       {
         "title": "Uruma Animation",
@@ -1278,7 +1316,7 @@
         "contributor": "",
         "character": "Uruma",
         "series": "Juujika no Rokunin",
-        "id": "URM0004"
+        "id": "RM0004"
       },
       {
         "title": "Uruma Animation",
@@ -1287,7 +1325,43 @@
         "contributor": "",
         "character": "Uruma",
         "series": "Juujika no Rokunin",
-        "id": "URM0004"
+        "id": "RM0004"
+      },
+      {
+        "title": "Uruma Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773590725/Animations/Uruma/file_udngxp.mov",
+        "contributor": "",
+        "id": "RM0006",
+        "character": "Uruma",
+        "series": "Juujika no Rokunin"
+      },
+      {
+        "title": "Uruma Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773590821/Animations/Uruma/file_nrizzg.mov",
+        "contributor": "",
+        "id": "RM0007",
+        "character": "Uruma",
+        "series": "Juujika no Rokunin"
+      },
+      {
+        "title": "Uruma Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773591178/Animations/Uruma/file_texchb.mov",
+        "contributor": "",
+        "id": "RM0008",
+        "character": "Uruma",
+        "series": "Juujika no Rokunin"
+      },
+      {
+        "title": "Uruma Animation",
+        "date": "3-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1773591329/Animations/Uruma/file_tf6w4c.mov",
+        "contributor": "",
+        "id": "RM0009",
+        "character": "Uruma",
+        "series": "Juujika no Rokunin"
       }
     ]
   },
