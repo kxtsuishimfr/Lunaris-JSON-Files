@@ -293,6 +293,123 @@
         "action"
       ],
       "mood": "calm"
+    },
+    {
+      "id": "BG0041",
+      "title": "Plane Crash",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257992/Backgrounds/file_hqalcg.jpg",
+      "contributor": "",
+      "tags": [
+        "plane",
+        "crash",
+        "ruins"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0042",
+      "title": "Dark City",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258042/Backgrounds/file_hbvajg.jpg",
+      "contributor": "",
+      "tags": [
+        "ruins",
+        "unreal"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0043",
+      "title": "City Crossroad",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258112/Backgrounds/file_pva6bi.jpg",
+      "contributor": "",
+      "tags": [
+        "city",
+        "crossroad",
+        "unreal"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0044",
+      "title": "Snowy Mountain",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258158/Backgrounds/file_eboyl7.jpg",
+      "contributor": "",
+      "tags": [
+        "nature",
+        "mountain",
+        "snow"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0045",
+      "title": "City Ruins",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258216/Backgrounds/file_nooqvn.jpg",
+      "contributor": "",
+      "tags": [
+        "city",
+        "ruins",
+        "unreal"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0046",
+      "title": "School Rooftop",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258298/Backgrounds/file_ec52ly.jpg",
+      "contributor": "",
+      "tags": [
+        "school",
+        "unreal",
+        "ruins"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0047",
+      "title": "Dark City Sidewalk",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258340/Backgrounds/file_loemrx.jpg",
+      "contributor": "",
+      "tags": [
+        "city",
+        "sidewalk",
+        "dark",
+        "unreal"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0048",
+      "title": "City Ruins 2",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258391/Backgrounds/file_eiggfa.jpg",
+      "contributor": "",
+      "tags": [
+        "city",
+        "ruins",
+        "unreal"
+      ],
+      "mood": "creepy"
+    },
+    {
+      "id": "BG0049",
+      "title": "Tori Gate Pathway",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776258439/Backgrounds/file_o45gxp.jpg",
+      "contributor": "",
+      "tags": [
+        "japanese",
+        "torigate",
+        "pathway"
+      ],
+      "mood": "creepy"
     }
   ],
   "Ethereal": [
