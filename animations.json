@@ -1281,7 +1281,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0001"
+        "id": "KS0001"
       },
       {
         "title": "Kaiser Animation",
@@ -1290,7 +1290,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0002"
+        "id": "KS0002"
       },
       {
         "title": "Kaiser Animation",
@@ -1299,7 +1299,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0003"
+        "id": "KS0003"
       },
       {
         "title": "Kaiser Animation",
@@ -1308,7 +1308,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0004"
+        "id": "KS0004"
       },
       {
         "title": "Kaiser Animation",
@@ -1317,7 +1317,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0005"
+        "id": "KS0005"
       },
       {
         "title": "Kaiser Animation",
@@ -1326,7 +1326,7 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0006"
+        "id": "KS0006"
       },
       {
         "title": "Kaiser Animation",
@@ -1335,7 +1335,52 @@
         "contributor": "",
         "character": "Kaiser",
         "series": "Blue Lock",
-        "id": "KSR0007"
+        "id": "KS0007"
+      },
+      {
+        "title": "Kaiser Animation",
+        "date": "4-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1776255919/Animations/Kaiser/file_dwj9rz.mp4",
+        "contributor": "",
+        "id": "KS0008",
+        "character": "Kaiser",
+        "series": "Blue Lock"
+      },
+      {
+        "title": "Kaiser Animation",
+        "date": "4-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1776256033/Animations/Kaiser/file_pwuofj.mp4",
+        "contributor": "",
+        "id": "KS0009",
+        "character": "Kaiser",
+        "series": "Blue Lock"
+      },
+      {
+        "title": "Kaiser Animation",
+        "date": "4-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1776256052/Animations/Kaiser/file_z8cdf4.mp4",
+        "contributor": "",
+        "id": "KS0010",
+        "character": "Kaiser",
+        "series": "Blue Lock"
+      },
+      {
+        "title": "Kaiser Animation",
+        "date": "4-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1776256069/Animations/Kaiser/file_lrxnam.mp4",
+        "contributor": "",
+        "id": "KS0011",
+        "character": "Kaiser",
+        "series": "Blue Lock"
+      },
+      {
+        "title": "Kaiser Animation",
+        "date": "4-15-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1776256086/Animations/Kaiser/file_qryqys.mp4",
+        "contributor": "",
+        "id": "KS0012",
+        "character": "Kaiser",
+        "series": "Blue Lock"
       }
     ],
     "Reo Mikage": [
