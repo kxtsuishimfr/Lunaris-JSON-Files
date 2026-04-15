@@ -38,6 +38,53 @@
         "nature",
         "green"
       ]
+    },
+    {
+      "id": "NT0004",
+      "title": "Rock Pathway",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257683/Materials/file_swgcnr.png",
+      "contributor": "",
+      "tags": [
+        "pathway",
+        "tree",
+        "rocks"
+      ]
+    },
+    {
+      "id": "NT0005",
+      "title": "Mountain View",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257754/Materials/file_sb5a2c.png",
+      "contributor": "",
+      "tags": [
+        "mountain",
+        "rocks",
+        "trees"
+      ]
+    },
+    {
+      "id": "NT0006",
+      "title": "Rock Edge",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257809/Materials/file_o07gzu.png",
+      "contributor": "",
+      "tags": [
+        "rocks",
+        "pathway"
+      ]
+    },
+    {
+      "id": "NT0007",
+      "title": "Deserted Pathway",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257845/Materials/file_blmxcm.png",
+      "contributor": "",
+      "tags": [
+        "desert",
+        "pathway",
+        "rocks"
+      ]
     }
   ],
   "Other": [
@@ -52,6 +99,42 @@
         "jjk",
         "domain",
         "innate"
+      ]
+    }
+  ],
+  "City": [
+    {
+      "id": "CT0001",
+      "title": "City Block",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257560/Materials/file_bnjd0v.png",
+      "contributor": "",
+      "tags": [
+        "city",
+        "block"
+      ]
+    },
+    {
+      "id": "CT0002",
+      "title": "City Ruins",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257639/Materials/file_pfaayg.png",
+      "contributor": "",
+      "tags": [
+        "city",
+        "ruins",
+        "rocks"
+      ]
+    },
+    {
+      "id": "CT0003",
+      "title": "City Blocks",
+      "date": "4-15-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1776257718/Materials/file_xbfw6w.png",
+      "contributor": "",
+      "tags": [
+        "city",
+        "blocks"
       ]
     }
   ]
