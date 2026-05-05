@@ -1,7 +1,7 @@
 [
   {
     "appName": "Adobe After Effects",
-    "thumb-link": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
+    "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/AE-2025-Thumb.png",
     "credits": "Developed by Adobe Systems Incorporated, provided by Lofix Discord server.",
     "versions": [
       {
@@ -11,9 +11,9 @@
         "contributor": "Lunar Katsu",
         "password": "lofix",
         "link": "https://drive.google.com/file/d/14_mB0y8hL-0f1eoYLK3x1eYLugojRrfJ/view?usp=sharing",
-        "virus-tested": "App passed the virus check. (Tested on Personal Device).",
-        "file-size": "4.1GB",
-        "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
+        "virusTested": "App passed the virus check. (Tested on Personal Device).",
+        "fileSize": "4.1GB",
+        "installGuide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
       },
       {
         "version": "2024",
@@ -22,9 +22,9 @@
         "contributor": "Lunar Katsu",
         "password": "lofix",
         "link": "https://drive.google.com/file/d/1zyVfgD8IAE2gjMBzAgkgLIMAeK9ClTYE/view?usp=sharing",
-        "virus-tested": "App passed the virus check. (Not Fully Tested).",
-        "file-size": "3.2GB",
-        "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
+        "virusTested": "App passed the virus check. (Not Fully Tested).",
+        "fileSize": "3.2GB",
+        "installGuide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
       },
       {
         "version": "2023",
@@ -33,9 +33,9 @@
         "contributor": "Lunar Katsu",
         "password": "lofix",
         "link": "https://drive.google.com/file/d/1ZE3q7mVDfwm590b2MREu_cr0Ku6QMP6E/view?usp=sharing",
-        "virus-tested": "App passed the virus check. (Not Fully Tested).",
-        "file-size": "2.9GB",
-        "install-guide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
+        "virusTested": "App passed the virus check. (Not Fully Tested).",
+        "fileSize": "2.9GB",
+        "installGuide": "Extract the ZIP file (Pass is inside the app). Mount ISO from ZIP. Turn off internet & antivirus. Add Setup.exe and packages/products/resources folders as exclusions in antivirus. Run Setup.exe."
       }
     ]
   }
