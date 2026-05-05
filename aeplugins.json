@@ -1,0 +1,75 @@
+{
+  "aePlugins": {
+    "deepGlow": {
+      "title": "Deep Glow",
+      "desc": "Deep Glow is an After Effects plugin that creates high-quality, photorealistic glow effects with a focus on performance and ease of use.",
+      "password": "lunaris",
+      "contributor": "",
+      "versions": [
+        {
+          "version": "1.2",
+          "link": "https://drive.google.com/file/d/15nOvTZbDIVLdwZpAQMkuH46RtTsMZYtU/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/DeepGlow-Thumb.png?raw=true",
+          "password": "lunaris"
+        },
+        {
+          "version": "2",
+          "link": "https://drive.google.com/file/d/1kShSZC4F1gkyHbCK1qZOTlCk599Eqzgg/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/DeepGlow-Thumb.png?raw=true",
+          "password": "lunaris"
+        }
+      ]
+    },
+
+    "magicBulletSuite": {
+      "title": "Magic Bullet Suite",
+      "desc": "Magic Bullet Looks is an After Effects plugin that delivers professional, cinematic color grading and film-like finishes with a focus on speed, creativity, and intuitive controls.",
+      "password": "lunaris",
+      "contributor": "",
+      "versions": [
+        {
+          "version": "2024",
+          "link": "https://drive.google.com/file/d/1ZhIWP4jOE6irwV38TAi4-lOS5Fq--3UN/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+          "password": "lunaris"
+        },
+        {
+          "version": "2025",
+          "link": "https://drive.google.com/file/d/1Vx7DgaMms3eNIaoUxMWWoftHIiJJEAjf/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+          "password": "lunaris"
+        }
+      ]
+    },
+
+    "bcc": {
+      "title": "BCC",
+      "desc": "BCC is an After Effects plugin suite that delivers versatile visual effects, advanced transitions, and high-quality post tools with a focus on performance, flexibility, and smooth creative control.",
+      "password": "lunaris",
+      "contributor": "",
+      "versions": [
+        {
+          "version": "2024",
+          "link": "https://drive.google.com/file/d/1kl5vp1uBKQOp1cpAZlRhQWBEp1I-kGKQ/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+          "password": "lunaris"
+        }
+      ]
+    },
+
+    "trapcodeSuite": {
+      "title": "Trapcode Suite",
+      "desc": "Trapcode Suite is a collection of After Effects plugins designed for creating high-quality particle effects, complex motion graphics, and dynamic simulations with precision, performance, and intuitive creative control.",
+      "password": "lunaris",
+      "contributor": "",
+      "versions": [
+        {
+          "version": "2024",
+          "link": "https://drive.google.com/file/d/1WbzyKAtTA6TDrHYlru7zH_wyWRPX5TUq/view?usp=sharing",
+          "thumbLink": "https://github.com/kxtsuishimfr/Lunaris-JSON-Files/blob/main/thumbs/Default-Thumb-Plugins.png?raw=true",
+          "password": "lunaris"
+        }
+      ]
+    }
+  }
+}
