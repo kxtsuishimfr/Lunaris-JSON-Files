@@ -971,6 +971,24 @@
         "id": "YJ0001",
         "character": "Yuji",
         "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Yuji Animation",
+        "date": "5-6-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1778095070/Animations/Yuji/file_bnn1ac.mp4",
+        "contributor": "",
+        "id": "YJ0002",
+        "character": "Yuji",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Yuji Animation",
+        "date": "5-6-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1778095093/Animations/Yuji/file_ltsv1e.mp4",
+        "contributor": "",
+        "id": "YJ0003",
+        "character": "Yuji",
+        "series": "Jujutsu Kaisen"
       }
     ],
     "Megumi": [
@@ -980,6 +998,15 @@
         "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1778094904/Animations/Megumi/file_egnkqz.mp4",
         "contributor": "",
         "id": "MG0001",
+        "character": "Megumi",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Megumi Animation",
+        "date": "5-6-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1778094987/Animations/Megumi/file_z0rdiw.mp4",
+        "contributor": "",
+        "id": "MG0002",
         "character": "Megumi",
         "series": "Jujutsu Kaisen"
       }
