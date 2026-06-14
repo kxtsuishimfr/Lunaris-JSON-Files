@@ -434,7 +434,7 @@
         "series": "Jujutsu Kaisen"
       },
       {
-        "title": "gojo 2",
+        "title": "Gojo Animation",
         "date": "5-21-2026",
         "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1779392647/Animations/Gojo/file_yw327n.mp4",
         "contributor": "",
@@ -443,11 +443,65 @@
         "series": "Jujutsu Kaisen"
       },
       {
-        "title": "gojo 1",
+        "title": "Gojo Animation",
         "date": "5-21-2026",
         "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1779392650/Animations/Gojo/file_houc5x.mp4",
         "contributor": "",
         "id": "GJ0052",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436179/Animations/Gojo/file_n3rrml.mp4",
+        "contributor": "",
+        "id": "GJ0053",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436182/Animations/Gojo/file_dtfqpl.mp4",
+        "contributor": "",
+        "id": "GJ0054",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436184/Animations/Gojo/file_bacdu5.mp4",
+        "contributor": "",
+        "id": "GJ0055",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436186/Animations/Gojo/file_c4hkti.mp4",
+        "contributor": "",
+        "id": "GJ0056",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436189/Animations/Gojo/file_ff9ii5.mp4",
+        "contributor": "",
+        "id": "GJ0057",
+        "character": "Gojo",
+        "series": "Jujutsu Kaisen"
+      },
+      {
+        "title": "Gojo Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781436192/Animations/Gojo/file_deqecc.mp4",
+        "contributor": "",
+        "id": "GJ0058",
         "character": "Gojo",
         "series": "Jujutsu Kaisen"
       }
