@@ -410,6 +410,111 @@
         "pathway"
       ],
       "mood": "creepy"
+    },
+    {
+      "id": "BG0050",
+      "title": "Old Factory",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438408/Backgrounds/file_fxmtzg.png",
+      "contributor": "",
+      "tags": [
+        "ruins",
+        "abandoned",
+        "machines"
+      ],
+      "mood": "creepy, eerie"
+    },
+    {
+      "id": "BG0051",
+      "title": "Dark Green Forest",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438409/Backgrounds/file_xczm1g.png",
+      "contributor": "",
+      "tags": [
+        "hideout",
+        "night",
+        "monsters"
+      ],
+      "mood": "creepy, mysterious"
+    },
+    {
+      "id": "BG0052",
+      "title": "Rustic Bathhouse Interior",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438409/Backgrounds/file_jussxo.png",
+      "contributor": "",
+      "tags": [
+        "bathhouse",
+        "onsen"
+      ],
+      "mood": "mysterious, somber"
+    },
+    {
+      "id": "BG0054",
+      "title": "Dystopian Cityscape View",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438411/Backgrounds/file_eqnad9.png",
+      "contributor": "",
+      "tags": [
+        "city",
+        "skyscrapers",
+        "buildings",
+        "bridge",
+        "apartment"
+      ],
+      "mood": "gritty, somber, ominous"
+    },
+    {
+      "id": "BG0056",
+      "title": "Desolate City Intersection",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438414/Backgrounds/file_avtnvn.png",
+      "contributor": "",
+      "tags": [
+        "street",
+        "architecture",
+        "columns",
+        "night",
+        "crosswalk",
+        "streetlight"
+      ],
+      "mood": "somber, mysterious, eerie"
+    },
+    {
+      "id": "BG0057",
+      "title": "Dense Urban Jungle",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438414/Backgrounds/file_xpyfnq.png",
+      "contributor": "",
+      "tags": [
+        "city",
+        "skyscrapers",
+        "buildings",
+        "apartment",
+        "anime",
+        "sketch",
+        "rooftops",
+        "alley"
+      ],
+      "mood": "gritty, somber, quiet"
+    },
+    {
+      "id": "BG0058",
+      "title": "Empty Concrete Arena",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438415/Backgrounds/file_zzhmlo.png",
+      "contributor": "",
+      "tags": [
+        "stadium",
+        "arena",
+        "ring",
+        "stairs",
+        "concrete",
+        "scaffold",
+        "ropes",
+        "stands"
+      ],
+      "mood": "eerie, somber, gritty"
     }
   ],
   "Ethereal": [
@@ -511,6 +616,24 @@
         "classroom"
       ],
       "mood": "calm"
+    },
+    {
+      "id": "BG0055",
+      "title": "Celestial Meteor Shower",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438413/Backgrounds/file_mxhy8n.png",
+      "contributor": "",
+      "tags": [
+        "sky",
+        "stars",
+        "meteors",
+        "forest",
+        "rocks",
+        "night",
+        "clouds",
+        "cosmic"
+      ],
+      "mood": "mysterious, ethereal, ominous"
     }
   ],
   "Manga": [
@@ -685,6 +808,24 @@
         "eerie"
       ],
       "mood": "serious"
+    },
+    {
+      "id": "BG0053",
+      "title": "Abandoned Forest Cabin",
+      "date": "6-14-2026",
+      "url": "https://res.cloudinary.com/dclyblp7a/image/upload/v1781438410/Backgrounds/file_njvbdb.png",
+      "contributor": "",
+      "tags": [
+        "hut",
+        "cabin",
+        "forest",
+        "thatch",
+        "wood",
+        "roots",
+        "night",
+        "dilapidated"
+      ],
+      "mood": "eerie, ominous"
     }
   ]
 }
