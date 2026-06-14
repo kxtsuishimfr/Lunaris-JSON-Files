@@ -1311,6 +1311,80 @@
         "series": "Dragon Ball",
         "id": "GK0012"
       }
+    ],
+    "Gohan": [
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438107/Animations/Gohan/file_rdvazy.mp4",
+        "contributor": "",
+        "id": "GH0001",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438135/Animations/Gohan/file_nxwvha.mp4",
+        "contributor": "",
+        "id": "GH0002",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438136/Animations/Gohan/file_krdudl.mp4",
+        "contributor": "",
+        "id": "GH0003",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438138/Animations/Gohan/file_w955lo.mp4",
+        "contributor": "",
+        "id": "GH0004",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438139/Animations/Gohan/file_nkrphi.mp4",
+        "contributor": "",
+        "id": "GH0005",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438141/Animations/Gohan/file_iylx4x.mp4",
+        "contributor": "",
+        "id": "GH0006",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438142/Animations/Gohan/file_ygcwdf.mp4",
+        "contributor": "",
+        "id": "GH0007",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      },
+      {
+        "title": "Gohan Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438143/Animations/Gohan/file_n6f0u0.mp4",
+        "contributor": "",
+        "id": "GH0008",
+        "character": "Gohan",
+        "series": "Dragon Ball"
+      }
     ]
   },
   "Naruto Shippuden": {
