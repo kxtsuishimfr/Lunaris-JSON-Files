@@ -70,6 +70,21 @@
           "password": "lunaris"
         }
       ]
+    },
+
+    "opticalFlares": {
+      "title": "Optical Flares",
+      "desc": "Optical Flares is an After Effects plugin for creating realistic, high-quality lens flares and light effects with an intuitive editor and real-time preview.",
+      "password": "lunaris",
+      "contributor": "",
+      "versions": [
+        {
+          "version": "1.3.8",
+          "link": "https://drive.google.com/file/d/10Qz4uSdlmG5roMIP8pJWvdh9zwvEenxR/view?usp=sharing",
+          "thumbLink": "https://res.cloudinary.com/dclyblp7a/image/upload/v1778000922/AeThumb_egy4lm.png",
+          "password": "lunaris"
+        }
+      ]
     }
   }
 }
