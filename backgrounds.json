@@ -422,7 +422,7 @@
         "abandoned",
         "machines"
       ],
-      "mood": "creepy, eerie"
+      "mood": "creepy"
     },
     {
       "id": "BG0051",
@@ -435,7 +435,7 @@
         "night",
         "monsters"
       ],
-      "mood": "creepy, mysterious"
+      "mood": "creepy"
     },
     {
       "id": "BG0052",
@@ -447,7 +447,7 @@
         "bathhouse",
         "onsen"
       ],
-      "mood": "mysterious, somber"
+      "mood": "mysterious"
     },
     {
       "id": "BG0054",
@@ -462,7 +462,7 @@
         "bridge",
         "apartment"
       ],
-      "mood": "gritty, somber, ominous"
+      "mood": "gritty"
     },
     {
       "id": "BG0056",
@@ -478,7 +478,7 @@
         "crosswalk",
         "streetlight"
       ],
-      "mood": "somber, mysterious, eerie"
+      "mood": "somber"
     },
     {
       "id": "BG0057",
@@ -496,7 +496,7 @@
         "rooftops",
         "alley"
       ],
-      "mood": "gritty, somber, quiet"
+      "mood": "gritty"
     },
     {
       "id": "BG0058",
@@ -514,7 +514,7 @@
         "ropes",
         "stands"
       ],
-      "mood": "eerie, somber, gritty"
+      "mood": "eerie"
     }
   ],
   "Ethereal": [
@@ -633,7 +633,7 @@
         "clouds",
         "cosmic"
       ],
-      "mood": "mysterious, ethereal, ominous"
+      "mood": "mysterious"
     }
   ],
   "Manga": [
@@ -825,7 +825,7 @@
         "night",
         "dilapidated"
       ],
-      "mood": "eerie, ominous"
+      "mood": "eerie"
     }
   ]
 }
