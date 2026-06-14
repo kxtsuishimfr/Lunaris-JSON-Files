@@ -2111,5 +2111,54 @@
         "series": "Attack on Titan"
       }
     ]
+  },
+  "One Punch Man": {
+    "Garou": [
+      {
+        "title": "Garou Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438258/Animations/Garou/file_i9xusn.mp4",
+        "contributor": "",
+        "id": "GR0001",
+        "character": "Garou",
+        "series": "One Punch Man"
+      },
+      {
+        "title": "Garou Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438282/Animations/Garou/file_zky6i7.mp4",
+        "contributor": "",
+        "id": "GR0002",
+        "character": "Garou",
+        "series": "One Punch Man"
+      },
+      {
+        "title": "Garou Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438284/Animations/Garou/file_i1i7gc.mp4",
+        "contributor": "",
+        "id": "GR0003",
+        "character": "Garou",
+        "series": "One Punch Man"
+      },
+      {
+        "title": "Garou Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438285/Animations/Garou/file_baopf6.mp4",
+        "contributor": "",
+        "id": "GR0004",
+        "character": "Garou",
+        "series": "One Punch Man"
+      },
+      {
+        "title": "Garou Animation",
+        "date": "6-14-2026",
+        "url": "https://res.cloudinary.com/dclyblp7a/video/upload/v1781438287/Animations/Garou/file_j8y955.mp4",
+        "contributor": "",
+        "id": "GR0005",
+        "character": "Garou",
+        "series": "One Punch Man"
+      }
+    ]
   }
 }
